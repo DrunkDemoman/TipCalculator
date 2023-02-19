@@ -1,2 +1,2 @@
 
-![Image](diagram.png)
+![Image](Diagram.png)
